@@ -1,4 +1,4 @@
-[README.md](https://github.com/user-attachments/files/23287932/README.md)
+
 # 🧩 Customer Segmentation Analysis
 
 This project demonstrates **Customer Segmentation** using **K-Means** and **Hierarchical Clustering** algorithms. The aim is to identify distinct customer groups based on **Annual Income** and **Spending Score**, enabling data-driven marketing and customer relationship strategies.
@@ -61,7 +61,7 @@ This project applies **unsupervised machine learning** techniques to group mall 
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/yourusername/customer-segmentation.git
+git clone https://github.com/Dineshreddy7872/customer-segmentation.git
 cd customer-segmentation
 ```
 
